@@ -15,7 +15,7 @@ Make sure you use the latest version of the [CLI](https://cli.angular.io/).
 Run `ng serve` to see the app in action (try "npm start" in case "ng serve" fails). Navigate to `http://localhost:4200/`
 
 
-### Features
+## Features
 
 * adding recipes,
 * removing recipes, 
